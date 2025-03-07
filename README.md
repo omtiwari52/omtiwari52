@@ -1,5 +1,11 @@
-<h1 align="center">Hello 👋, I'm Om Tiwari</h1>
-<h3 align="center">Full Stack Developer | MERN Stack</h3>
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 3.5em; color: #4CAF50;">
+  <span style="color: #FF5733;">Hey</span> there! <span style="color: #FF5733;">I'm</span> <span style="color: #3498DB;">Om Tiwari</span> 🚀
+</h1>
+
+<h3 align="center" style="font-family: 'Arial', sans-serif; font-size: 1.8em; color: #34495E;">
+  Your Next Full Stack Developer | Passionate About Coding & Building Amazing Stuff 🔧💻
+</h3>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
