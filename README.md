@@ -33,5 +33,5 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omtiwari52&theme=highcontrast" alt="OmTiwari" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=omtiwari52&theme=highcontrast" alt="OmTiwari" />
 </p>
