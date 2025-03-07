@@ -23,12 +23,12 @@
 
 <!-- Top Languages -->
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmTiwari&layout=compact&theme=highcontrast" alt="OmTiwari" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtiwari52&layout=compact&theme=highcontrast" alt="OmTiwari" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmTiwari&show_icons=true&locale=en&theme=highcontrast" alt="OmTiwari" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omtiwari52&show_icons=true&locale=en&theme=highcontrast" alt="OmTiwari" />
 </p>
 
 <!-- GitHub Streak -->
