@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://omtiwariportfolio.vercel.app/](https://omtiwariportfolio.vercel.app/)
 
-- 📫 How to reach me **tiwariom901@gmail.com**
+- 📫 How to reach me **tiwariom900@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
