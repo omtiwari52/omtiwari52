@@ -23,7 +23,7 @@
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omtiwari52&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -44,3 +44,9 @@
 <p align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=omtiwari52&theme=highcontrast" alt="OmTiwari" />
 </p>
+
+<!--Snake conribution graph-->
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/omtiwari52/omtiwari52/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
