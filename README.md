@@ -44,6 +44,5 @@
 </p>
 
 <!--Snake conribution graph-->
-<hr>
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/omtiwari52/omtiwari52/output/github-contribution-grid-snake-dark.svg)
 
