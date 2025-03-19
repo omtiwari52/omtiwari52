@@ -2,6 +2,7 @@
 <h3 align="center">Your Next Full Stack Developer | Passionate About Coding & Building Amazing Stuff 🔧💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omtiwari52&label=Profile%20views&color=0e75b6&style=flat" alt="omtiwari52" /> </p>
+<img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omtiwari52" alt="omtiwari52" /></a> </p>
 
